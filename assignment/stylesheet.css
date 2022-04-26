@@ -3,3 +3,7 @@ header{ margin-left: 0;
     color:rgb(30, 129, 211);
     text-align: center;
 }
+
+main{
+    background-color: lightgrey;
+}
